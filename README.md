@@ -6,7 +6,18 @@ Our platform provides **unlimited Google Veo AI 3.1 video generation**, includin
 You don’t need heavy software or editing skills, just type what you imagine, and Veo Ai Free will create a video for you.
 
 ---
+## 🧩 How to Create Your First AI Video
 
+1. Visit [https://veoaifree.com](https://veoaifree.com)  
+2. Type a text prompt describing what you want.  
+3. Choose your preferred AI engine (Google Veo AI 3.1 or Nano Banana).  
+4. Click **Generate Video**.  
+5. Wait a few seconds — your AI video will be ready to preview.  
+6. Download it or share it directly on social media.
+
+That’s it — no editing experience needed.
+
+---
 
 
 ## 🚀 About VeoAiFree
@@ -138,18 +149,6 @@ Here are some creative prompt ideas you can try on VeoAiFree:
 
 ---
 
-## 🧩 How to Create Your First AI Video
-
-1. Visit [https://veoaifree.com](https://veoaifree.com)  
-2. Type a text prompt describing what you want.  
-3. Choose your preferred AI engine (Google Veo AI 3.1 or Nano Banana).  
-4. Click **Generate Video**.  
-5. Wait a few seconds — your AI video will be ready to preview.  
-6. Download it or share it directly on social media.
-
-That’s it — no editing experience needed.
-
----
 
 ## 🧾 Example Prompt & Output
 
